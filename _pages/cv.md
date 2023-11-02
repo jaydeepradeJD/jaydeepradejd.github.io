@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Link for the [CV](http://academicpages.github.io/files/Jaydeep_Rade_Resume.pdf) 
+## Link for the [CV](https://jaydeepradejd.github.io/files/Jaydeep_Rade_Resume.pdf) 
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
