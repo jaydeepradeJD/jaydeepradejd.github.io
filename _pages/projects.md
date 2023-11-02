@@ -14,6 +14,7 @@ author_profile: true
 ## Cell Shape Detection in AFM Microscopic Images
 * Implemented YOLO object detection algorithm using PyTorch for cell shape detection in AFM images.
 * Incorporated intelligent vision-based navigation for traversing the AFM scanning probe.
+
 ## Deep Learning for Topology Optimization
 * Designed multiple neural networks model to perform end-to-end topology optimization consistent with SIMP algorithm using 3D CNNs.
 * Built the pipeline using GNU parallel shell tool to parallelize 3D dataset generation and voxelization.
