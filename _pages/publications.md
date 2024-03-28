@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2023
 
-1. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, In review process, CAD 2023. 
+1. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, Computer-Aided Design 2024, CAD 2024. [article](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344)
 
 2. **J. Rade**, A. Jignasu, E. Herron, A. Corpuz, B. Ganapathysubramanian, S. Sarkar, A. Balu, A. Krishnamurthy, “Deep Learning-based 3D Multigrid Topology Optimization of Manufacturable Designs”, EAAI 2023. [article](https://www.sciencedirect.com/science/article/pii/S0952197623012174?dgcid=author)
 
