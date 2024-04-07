@@ -14,6 +14,7 @@ Before pursuing my Ph.D., I obtained M.S. in 2021 from Iowa State University, wi
 
 My research interests includes applied deep learning, computer vision, generative models, with a particular focus on the high-resolution 3D reconstruction and generation for engineering applications. 
 Apart from academics, I have gained industry experience through internships at Bayer Crop Science, where I worked as a Computer Vision Intern, and at ANSYS, where I was a Machine Learning Intern.
+
 Apart from research, I enjoy playing FPS games like CS or Valorant. In my free time I usually watch movies, TV shows (recently hooked to crime documentatries). In pleasant weather I go for long drives to explore the water bodies. My go to stress buster is cooking and hanging out with friends.
 
 You can find my [CV](https://jaydeepradejd.github.io/files/Jaydeep_Rade_Resume.pdf){:target="_blank"} here!
