@@ -11,14 +11,21 @@ author_profile: true
 * Created Virtual AFM:gpu-accelerated computer graphics program and accelerated data generation using GNU Parallel.
 * Compiled an large dataset featuring multi-view virtual AFM images for over 550,000 voxelized 3D protein structures.
 
+![virtual AFM pipeline](https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png) ![virtual AFM](https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png)
+
+![prediction](https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png)
 ## Cell Shape Detection in AFM Microscopic Images
 * Implemented YOLO object detection algorithm using PyTorch for cell shape detection in AFM images.
 * Incorporated intelligent vision-based navigation for traversing the AFM scanning probe.
+
+![Overview](https://jaydeepradejd.github.io/images/Projects/cell_shape_detectiojn_overview.png)
 
 ## Deep Learning for High-resolution 3D Structural Topology Optimization
 * Designed PSP-U-Net architecture in Keras for performing STO.
 * Leveraged multigrid-style training to train up to high-resolution of 128 × 128 × 128 3D structures.
 * Achieved 5× speed up using distributed training across multiple GPUs.
+
+![Overview](https://jaydeepradejd.github.io/images/Projects/multigrid.png)
 
 ## Deep Learning for Structural Topology Optimization
 * Designed multiple neural networks model to perform end-to-end topology optimization consistent with SIMP algorithm using 3D CNNs.
