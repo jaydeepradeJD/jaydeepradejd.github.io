@@ -10,7 +10,7 @@ author_profile: true
 * Developing novel view synthesis methods for 3D NeRF reconstruction of protein structure using diffusion models.
 * Created Virtual AFM:gpu-accelerated computer graphics program and accelerated data generation using GNU Parallel.
 * Compiled an large dataset featuring multi-view virtual AFM images for over 550,000 voxelized 3D protein structures.
-<img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png" width="500" height="300"/> <img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png" width="500" height="300"/>
+<img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png" width="400" height="300"/> <img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png" width="400" height="300"/>
 
 <img src="https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png" width="500" height="300"/>
 <!-- ![virtual AFM pipeline](https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png) ![virtual AFM](https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png) -->
