@@ -29,4 +29,4 @@ author_profile: true
 
 2. **J. Rade**, A. Balu, E. Herron, J. Pathak, R. Ranade, S. Sarkar, and A. Krishnamurthy, “Algorithmically-Consistent Deep Learning Frameworks for Structural Topology Optimization”, Engineering Applications of Artificial Intelligence 106, 104483, EAAI 2021. [article](https://www.sciencedirect.com/science/article/abs/pii/S0952197621003316){:target="_blank"}
 
-3. **J. Rade**, “Deep Learning Frameworks for Structural Topology Optimization”, Graduate Theses and Dissertations, Iowa State University, 18592, 2021. [thesis](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=9599&context=et){:target="_blank"}
+3. **J. Rade**, “Deep Learning Frameworks for Structural Topology Optimization”, Graduate Theses and Dissertations, Iowa State University, 18592, 2021. [thesis](https://doi.org/10.31274/etd-20210609-153){:target="_blank"}
