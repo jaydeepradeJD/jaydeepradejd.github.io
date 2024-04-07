@@ -23,4 +23,5 @@ author_profile: true
 ## Deep Learning for Structural Topology Optimization
 * Designed multiple neural networks model to perform end-to-end topology optimization consistent with SIMP algorithm using 3D CNNs.
 * Built and accelerated the dataset generation pipeline using GNU parallel shell and created a dataset of 60K high-resolution of 128 × 128 × 128 3D voxelized structures.
-![Overview](https://jaydeepradejd.github.io/images/topopt_overview.pdf)
+
+![Overview](https://jaydeepradejd.github.io/images/Projects/topopt_overview.png)
