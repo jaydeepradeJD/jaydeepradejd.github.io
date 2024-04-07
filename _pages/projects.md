@@ -10,10 +10,12 @@ author_profile: true
 * Developing novel view synthesis methods for 3D NeRF reconstruction of protein structure using diffusion models.
 * Created Virtual AFM:gpu-accelerated computer graphics program and accelerated data generation using GNU Parallel.
 * Compiled an large dataset featuring multi-view virtual AFM images for over 550,000 voxelized 3D protein structures.
+<img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png" width="200" height="200"/> <img src="https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png" width="200" height="200"/>
 
-![virtual AFM pipeline](https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png =200x200) ![virtual AFM](https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png = 200x200)
+<img src="https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png" width="200" height="200"/>
+<!-- ![virtual AFM pipeline](https://jaydeepradejd.github.io/images/Projects/virtual_AFM_pipeline.png =200x200) ![virtual AFM](https://jaydeepradejd.github.io/images/Projects/virtual_AFM.png = 200x200) -->
 
-![prediction](https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png = 200x200)
+<!-- ![prediction](https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png = 200x200) -->
 ## Cell Shape Detection in AFM Microscopic Images
 * Implemented YOLO object detection algorithm using PyTorch for cell shape detection in AFM images.
 * Incorporated intelligent vision-based navigation for traversing the AFM scanning probe.
