@@ -8,10 +8,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## 2023
-1. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, Computer-Aided Design 2024, CAD 2024. [article](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344){:target="_blank"}
+## 2024
 
-2. **J. Rade**, A. Jignasu, E. Herron, A. Corpuz, B. Ganapathysubramanian, S. Sarkar, A. Balu, A. Krishnamurthy, “Deep Learning-based 3D Multigrid Topology Optimization of Manufacturable Designs”, EAAI 2023. [article](https://www.sciencedirect.com/science/article/pii/S0952197623012174?dgcid=author){:target="_blank"}
+1. **J. Rade**, E. Herron, S. Sarkar, A. Sarkar, A. Krishnamurthy, "3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)", Deep Learning for Geometric Computing (DLGC) Workshop, CVPR 2024. 
+
+2. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, Computer-Aided Design 2024, CAD 2024. [article](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344){:target="_blank"}
+
+## 2023
+
+1. **J. Rade**, A. Jignasu, E. Herron, A. Corpuz, B. Ganapathysubramanian, S. Sarkar, A. Balu, A. Krishnamurthy, “Deep Learning-based 3D Multigrid Topology Optimization of Manufacturable Designs”, EAAI 2023. [article](https://www.sciencedirect.com/science/article/pii/S0952197623012174?dgcid=author){:target="_blank"}
 
 ## 2022
 
