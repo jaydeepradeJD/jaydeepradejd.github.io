@@ -10,9 +10,11 @@ author_profile: true
 
 ## 2024
 
-1. **J. Rade**, E. Herron, S. Sarkar, A. Sarkar, A. Krishnamurthy, "3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)", Deep Learning for Geometric Computing (DLGC) Workshop, CVPR 2024. 
+1. N. Masud, **J. Rade**, Md. H. Hassan, A. Krishnamurthy, A. Sarkar; Machine learning approaches for improving atomic force microscopy instrumentation and data analytics, Frontiers in Physics, 2024. [article](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1347648){:target="_blank"}
 
-2. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, Computer-Aided Design 2024, CAD 2024. [article](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344){:target="_blank"}
+2. **J. Rade**, E. Herron, S. Sarkar, A. Sarkar, A. Krishnamurthy, "3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)", Deep Learning for Geometric Computing (DLGC) Workshop, CVPR 2024. 
+
+3. E. Herron, **J. Rade**, A. Jignasu, B. Ganapathysubramanian, A. Balu, S. Sarkar, A. Krishnamurthy, “Latent Diffusion Models for Structural Component Design”, Computer-Aided Design 2024, CAD 2024. [article](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344){:target="_blank"}
 
 ## 2023
 

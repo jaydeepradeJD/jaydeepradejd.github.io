@@ -17,6 +17,7 @@ author_profile: true
 
 <!-- ![prediction](https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png) -->
 ## <span style="color:maroon;"> Cell Shape Detection in AFM Microscopic Images </span> 
+* Evaluated zero-shot performances of VLMs like GPT-4o, Gemini and LLaVA for cell shape classification.
 * Implemented YOLO object detection algorithm using PyTorch for cell shape detection in AFM images.
 * Incorporated intelligent vision-based navigation for traversing the AFM scanning probe.
 
