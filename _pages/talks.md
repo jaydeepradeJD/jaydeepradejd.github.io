@@ -4,6 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+## 2024
+
+1. “Deep Learning for 3D Protein Structure Prediction from AFM Images.” Biomedical Engineering Society, BMES 2024, Baltimore, Maryland, USA.
 
 ## 2023
 
