@@ -29,6 +29,7 @@ You can find my [CV](https://jaydeepradejd.github.io/files/Jaydeep_Rade_Resume.p
 * B.Tech., Electronics Engineering, Veermata Jijabai Technological Institute (VJTI), Mumbai, India (Aug 2014 - May 2018) -->
 
 ## News
+* Presented a poster at NVIDIA GTC 2025 titled "AI and AFM Assisted Structure Prediction of Protein Complexes".
 
 * Won a Graduate Research Excellence Award at Iowa State University, May 2024.
 

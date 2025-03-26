@@ -7,7 +7,7 @@ author_profile: true
 
 ## <span style="color:maroon;"> AI-AFM Assisted Structure Prediction of Protein Complexes </span> 
 * Developing novel view synthesis methods for **3D NeRF** reconstruction of protein structure using **Diffusion Models**.
-* Designed a GPU-accelerated Virtual AFM utilizing volume rendering for efficient synthetic data generation.
+* Designed a **GPU-accelerated** Virtual AFM utilizing **volume rendering** for efficient synthetic data generation.
 * Generated a **large-scale synthetic dataset** of multi-view AFM images for over 550,000 3D protein structures.
 
 <img src="https://jaydeepradejd.github.io/images/Projects/virtualAFM.png" width="800" height="400"/>
@@ -17,9 +17,9 @@ author_profile: true
 
 <!-- ![prediction](https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png) -->
 ## <span style="color:maroon;"> Cell Shape Detection in AFM Microscopic Images </span> 
-* Analyzed zero-shot performance of **Vision-Language Models (VLMs)**, including **GPT-4o**, **Gemini**, and **LLaVA**, for cell shape classification.
-* Leveraged transfer learning to enhance **YOLOv3**-based **object detection** for cell shape detection in AFM images, achieving a **43%** accuracy improvement.
-* Achieved up to **60x** speed improvement in AFM scanning probe traversal using intelligent vision-based navigation over manual navigation.
+* Analyzed zero-shot performance of **Vision-Language Models (VLMs)**, including **GPT-4o, Gemini, and LLaVA**, for cell shape classification.
+* Leveraged **transfer learning** to enhance **YOLOv3**-based **object detection** for cell shape detection in AFM images, achieving a **43%** accuracy improvement.
+* Achieved up to **60×** speed improvement in AFM scanning probe traversal using intelligent vision-based navigation over manual navigation.
 
 <img src="https://jaydeepradejd.github.io/images/Projects/cell_shape_detection_overview.png" width="800" height="600"/>
 <!-- ![Overview](https://jaydeepradejd.github.io/images/Projects/cell_shape_detectiojn_overview.png) -->
