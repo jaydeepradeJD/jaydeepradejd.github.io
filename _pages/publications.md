@@ -4,12 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 {% if site.author.googlescholar %}
-  You can also find my articles on
+  View my Publications on
   <u>
     <a href="{{site.author.googlescholar}}" target="_blank">
-      <i class="fa-brands fa-google"></i> my Google Scholar profile
-    </a>.
+      <i class="fa-solid fa-graduation-cap"></i> Google Scholar Profile
+    </a>
   </u>
 {% endif %}
 
