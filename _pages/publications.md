@@ -8,11 +8,9 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   View my Publications on
-  <u>
-    <a href="{{site.author.googlescholar}}" target="_blank">
-      <i class="fa-solid fa-graduation-cap"></i> Google Scholar Profile
-    </a>
-  </u>
+  <a href="{{site.author.googlescholar}}" target="_blank">
+    <i class="fa-solid fa-graduation-cap"></i> Google Scholar Profile
+  </a>
 {% endif %}
 
 ***Equal contribution**
