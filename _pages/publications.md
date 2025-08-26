@@ -8,19 +8,23 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   View my Publications on
-  <a href="{{site.author.googlescholar}}" target="_blank">
-    <i class="fa-solid fa-graduation-cap"></i> Google Scholar Profile
-  </a>
+  <u>
+    <a href="{{site.author.googlescholar}}" target="_blank">
+      <i class="fa-solid fa-graduation-cap"></i> Google Scholar Profile
+    </a>
+  </u>
 {% endif %}
 
 ***Equal contribution**
 
 ## 2025
-1. A. Biswas, **J. Rade***, N. Masud, Md. H. Hasan, A. Balu, J. Zhang, S. Sarkar, A. Krishnamurthy, J. Ren, A. Sarkar; "Conversational LLM-Based Decision Support for Defect Classification in AFM Images", Under Review.
+1. **J. Rade**, et al., "ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images”, Nature Machine Intelligence, 2025. (Under Review)
+
+2. **J. Rade***, A. Biswas,  N. Masud, Md. H. Hasan, A. Balu, J. Zhang, S. Sarkar, A. Krishnamurthy, J. Ren, A. Sarkar; "Conversational LLM-Based Decision Support for Defect Classification in AFM Images", IEEE Open Journal on Instrumentation and Measurement, 2025. [article](https://ieeexplore.ieee.org/document/11096088){:target="_blank"}
 
 ## 2024
 
-1. N. Masud, **J. Rade***, Md. H. Hassan, A. Krishnamurthy, A. Sarkar; "Machine learning approaches for improving atomic force microscopy instrumentation and data analytics", Frontiers in Physics, 2024. [article](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1347648){:target="_blank"}
+1. **J. Rade***, N. Masud, Md. H. Hassan, A. Krishnamurthy, A. Sarkar; "Machine learning approaches for improving atomic force microscopy instrumentation and data analytics", Frontiers in Physics, 2024. [article](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1347648){:target="_blank"}
 
 2. **J. Rade**, E. Herron, S. Sarkar, A. Sarkar, A. Krishnamurthy, "3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)", Deep Learning for Geometric Computing (DLGC) Workshop, CVPR 2024. 
 

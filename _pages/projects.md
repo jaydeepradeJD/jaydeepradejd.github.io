@@ -10,9 +10,9 @@ author_profile: true
 * Designed a **GPU-accelerated** Virtual AFM utilizing **volume rendering** for efficient synthetic data generation.
 * Generated a **large-scale synthetic dataset** of multi-view AFM images for over 550,000 3D protein structures.
 
-<img src="https://jaydeepradejd.github.io/images/Projects/virtualAFM.png" width="800" height="400"/>
+<img src="https://jaydeepradejd.github.io/images/Projects/Method_overview.png" width="800" height="400"/>
 
-<img src="https://jaydeepradejd.github.io/images/Projects/upfusion_predictions.png" width="500" height="300"/>
+<img src="https://jaydeepradejd.github.io/images/Projects/Virtual_AFM.png" width="500" height="300"/>
 
 ## <span style="color:maroon;"> LLM-Powered Guidance for Defect Detection in AFM Microscopic Images </span> 
 * Created an LLM-powered user interface using **LangChain**, **LangGraph** and **Streamlit** to guide users in identifying and resolving defects in AFM images.
