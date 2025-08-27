@@ -12,7 +12,7 @@ author_profile: true
 
 <img src="https://jaydeepradejd.github.io/images/Projects/Method_overview.png" width="800" height="400"/>
 
-<img src="https://jaydeepradejd.github.io/images/Projects/Virtual_AFM.png" width="500" height="300"/>
+<img src="https://jaydeepradejd.github.io/images/Projects/Virtual_AFM.png" width="800" height="400"/>
 
 ## <span style="color:maroon;"> LLM-Powered Guidance for Defect Detection in AFM Microscopic Images </span> 
 * Created an LLM-powered user interface using **LangChain**, **LangGraph** and **Streamlit** to guide users in identifying and resolving defects in AFM images.
